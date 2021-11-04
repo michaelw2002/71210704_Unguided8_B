@@ -1,0 +1,37 @@
+Kapasitas A = 1000
+Kapasitas B = 700
+Kapasitas C = 300
+Kapasitas D = 100
+Bagian tepi tengah gelas A, B, dan C diberi lubang
+A diberi air 1000  
+
+A di isi 1000
+A = 1000/2
+A = 500
+Air di A = Air masuk-A
+Air di A = 1000-500
+Air di A = 500
+Sisa air A = 500
+ 
+B = 700/2
+B = 350
+Sisa air A = 500
+Air di B = 350
+Sisa air B = Sisa air A-B
+Sisa air B = 500-350
+Sisa air B = 150
+
+C = 300/2
+C = 150
+Sisa air B = 150
+Air di C = 150
+Sisa air C = Sisa air B-C
+Sisa air C = 150-150
+Sisa air C = 0
+
+D = 100
+Sisa air C = 0
+Air di D = Sisa air C
+Air di D = 0
+
+Dari gelas A mengalir sebanyak 500 liter, dari gelas B mengalir sebanyak 150 liter, dari gelas C mengalir sebanyak 0 liter, gelas D menampung air sebanyak 0 liter.
